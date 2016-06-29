@@ -2,3 +2,6 @@ I just want to learn git
 this is the second file
 
 haha I come again 
+
+Git is a distributed version control system.
+Git is free software.
